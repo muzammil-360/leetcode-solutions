@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/muzammil-360/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
