@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muzammil-360/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -128,15 +129,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muzammil-360/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
