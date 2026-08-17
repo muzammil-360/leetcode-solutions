@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/muzammil-360/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Enumeration
 |  |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/muzammil-360/leetcode-solutions/tree/master/1051-height-checker) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
