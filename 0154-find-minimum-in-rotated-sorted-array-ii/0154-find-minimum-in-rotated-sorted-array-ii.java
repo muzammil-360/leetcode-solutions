@@ -8,6 +8,7 @@ class Solution {
             if(nums[low]==nums[mid] && nums[mid]==nums[high]){
                 ans=Math.min(ans,nums[low]);
                 high--;
+                low++;
                 continue;
             }
             if(nums[low]<=nums[mid]){
