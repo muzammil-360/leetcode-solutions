@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2951-find-the-peaks) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Geometry
 |  |
