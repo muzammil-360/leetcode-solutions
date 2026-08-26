@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muzammil-360/leetcode-solutions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 <!---LeetCode Topics End-->
