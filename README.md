@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
