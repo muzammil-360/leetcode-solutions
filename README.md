@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
