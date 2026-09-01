@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/muzammil-360/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/muzammil-360/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/muzammil-360/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muzammil-360/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
