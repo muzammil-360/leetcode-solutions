@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
