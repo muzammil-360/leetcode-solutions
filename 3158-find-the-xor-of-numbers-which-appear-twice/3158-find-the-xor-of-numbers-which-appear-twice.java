@@ -14,14 +14,24 @@ class Solution {
     //     }
     //     return xor;
 
-      HashSet<Integer> seen = new HashSet<>();
-        int xor = 0;
+    //   HashSet<Integer> seen = new HashSet<>();
+    //     int xor = 0;
 
-        for (int num : nums) {
-            if (seen.contains(num)) {
-                xor ^= num;
-            } else {
-                seen.add(num);
+    //     for (int num : nums) {
+    //         if (seen.contains(num)) {
+    //             xor ^= num;
+    //         } else {
+    //             seen.add(num);
+    //         }
+    //     }
+    //     return xor;
+
+     Arrays.sort(nums);
+
+        int xor = 0;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] == nums[i - 1]) {
+                xor ^= nums[i];
             }
         }
         return xor;
