@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muzammil-360/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
