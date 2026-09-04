@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/muzammil-360/leetcode-solutions/tree/master/0704-binary-search) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
