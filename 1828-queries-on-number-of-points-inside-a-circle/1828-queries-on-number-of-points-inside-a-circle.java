@@ -1,6 +1,7 @@
 class Solution {
     public int[] countPoints(int[][] points, int[][] queries) {
         int[] ans=new int[queries.length];
+        int cnt=0;
         for(int i=0;i<queries.length;i++){
             int xj=queries[i][0];
             int yj=queries[i][1];
@@ -11,9 +12,12 @@ class Solution {
                 int dx=xj-xi;
                 int dy=yj-yi;
                 if((dx*dx+dy*dy)<=(rj*rj)){
-                    ans[i]++;
+                    //ans[i]++;
+                    cnt++;
                 }
             }
+            ans[i]=cnt;
+            cnt=0;
         }
         return ans;
     }
