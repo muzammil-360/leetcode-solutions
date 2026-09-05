@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1816-truncate-sentence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [1816-truncate-sentence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
