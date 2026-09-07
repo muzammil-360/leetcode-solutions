@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1816-truncate-sentence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/muzammil-360/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
