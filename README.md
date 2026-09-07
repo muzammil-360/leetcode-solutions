@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
