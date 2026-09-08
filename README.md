@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/muzammil-360/leetcode-solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/muzammil-360/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/muzammil-360/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
