@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
+| [2553-separate-the-digits-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
