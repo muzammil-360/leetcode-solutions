@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1773-count-items-matching-a-rule](https://github.com/muzammil-360/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -461,10 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
