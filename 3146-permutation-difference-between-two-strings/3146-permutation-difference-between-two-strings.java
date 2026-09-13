@@ -1,20 +1,14 @@
 class Solution {
     public int findPermutationDifference(String s, String t) {
-        char[] m=s.toCharArray();
-        char[] n=t.toCharArray();
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        for (char ch : s.toCharArray())
+            {map1.put(ch,s.indexOf(ch));}
+        HashMap<Character, Integer> map2 = new HashMap<>();
+        for (char ch : t.toCharArray())
+            {map2.put(ch,t.indexOf(ch));}
         int sum=0;
-        int i=0;
-        while(i<m.length){
-            int j=0;
-            while(j<n.length){
-                if(m[i]==n[j]){
-                    sum+=Math.abs(i-j);
-                    //j++;
-                    break;
-                }
-                else{j++;}
-            }
-            i++;
+        for(char ch:map1.keySet()){
+            sum+=Math.abs(map1.get(ch)-map2.get(ch));
         }
         return sum;
     }
