@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/muzammil-360/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/muzammil-360/leetcode-solutions/tree/master/2652-sum-multiples) |
