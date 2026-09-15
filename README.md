@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/muzammil-360/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/muzammil-360/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
