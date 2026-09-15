@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2239-find-closest-number-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
