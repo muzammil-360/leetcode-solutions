@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/muzammil-360/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -578,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
