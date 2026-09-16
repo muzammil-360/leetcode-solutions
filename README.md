@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/muzammil-360/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muzammil-360/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -610,5 +611,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/muzammil-360/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
