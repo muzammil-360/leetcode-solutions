@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/muzammil-360/leetcode-solutions/tree/master/0704-binary-search) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1695-maximum-erasure-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Queue
 |  |
