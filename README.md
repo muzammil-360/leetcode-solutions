@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
