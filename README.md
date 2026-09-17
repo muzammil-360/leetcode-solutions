@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muzammil-360/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammil-360/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/muzammil-360/leetcode-solutions/tree/master/1051-height-checker) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
+| [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/muzammil-360/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muzammil-360/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/muzammil-360/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Queue
 |  |
