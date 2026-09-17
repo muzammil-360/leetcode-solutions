@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/muzammil-360/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
