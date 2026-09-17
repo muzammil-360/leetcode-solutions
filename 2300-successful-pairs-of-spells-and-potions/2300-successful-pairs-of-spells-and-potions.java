@@ -8,7 +8,7 @@ class Solution {
             int ans=-1;
             while(low<=high){
                int  mid=low+(high-low)/2;
-                if((long )potions[mid]*spells[i]>=success){
+                if((long)potions[mid]*spells[i]>=success){
                     ans=mid;
                     high=mid-1;
                 }
