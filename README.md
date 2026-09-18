@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/muzammil-360/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muzammil-360/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/muzammil-360/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/muzammil-360/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Queue
