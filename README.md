@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Matrix
