@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/muzammil-360/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/muzammil-360/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1903-largest-odd-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muzammil-360/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/muzammil-360/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/muzammil-360/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
