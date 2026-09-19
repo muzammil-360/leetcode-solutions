@@ -1,17 +1,9 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length())return false;
-        HashMap<Character,Integer> map1=new HashMap<>();
-        for(char c:s.toCharArray()){
-            map1.put(c,map1.getOrDefault(c,0)+1);
-        }
-        HashMap<Character,Integer> map2=new HashMap<>();
-        for(char c:t.toCharArray()){
-            map2.put(c,map2.getOrDefault(c,0)+1);
-        }
-        for(char c:map1.keySet()){
-            if(!map2.containsKey(c) || !map1.get(c).equals(map2.get(c)))return false;
-        }
-        return true;
+       int[] freq=new int[26];
+       for(char ch:s.toCharArray())freq[ch-'a']++;
+       for(char ch:t.toCharArray())freq[ch-'a']--;
+       for(int f:freq){if(f!=0)return false;}
+       return true;
     }
 }
