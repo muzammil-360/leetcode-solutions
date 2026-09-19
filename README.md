@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/muzammil-360/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/muzammil-360/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0830-positions-of-large-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -714,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/muzammil-360/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
