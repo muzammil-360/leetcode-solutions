@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/muzammil-360/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/muzammil-360/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/muzammil-360/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/muzammil-360/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Enumeration
 |  |
