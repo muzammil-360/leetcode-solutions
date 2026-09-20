@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/muzammil-360/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/muzammil-360/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/muzammil-360/leetcode-solutions/tree/master/0771-jewels-and-stones) |
