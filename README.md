@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/muzammil-360/leetcode-solutions/tree/master/0771-jewels-and-stones) |
