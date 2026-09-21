@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammil-360/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/muzammil-360/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/muzammil-360/leetcode-solutions/tree/master/1051-height-checker) |
+| [1053-previous-permutation-with-one-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1122-relative-sort-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/muzammil-360/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1053-previous-permutation-with-one-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
