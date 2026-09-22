@@ -7,7 +7,7 @@ class Solution {
         int sum=0;
         int cnt=0;
         for(int i=1;i<=n;i++){
-            if(!set.contains(i) && sum<=maxSum){
+            if(!set.contains(i)){
                 sum+=i;
                 if(sum<=maxSum){cnt++;}
             }
