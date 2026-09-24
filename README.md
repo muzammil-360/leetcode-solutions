@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
