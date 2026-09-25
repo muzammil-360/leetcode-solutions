@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/muzammil-360/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/muzammil-360/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muzammil-360/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/muzammil-360/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muzammil-360/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -616,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Geometry
 |  |
