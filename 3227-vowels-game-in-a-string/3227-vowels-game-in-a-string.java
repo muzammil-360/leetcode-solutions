@@ -7,7 +7,6 @@ class Solution {
             }
         }
         if(vo_cnt==0)return false;
-        if(vo_cnt%2==1)return true;
         return true;
     }
 }
