@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/muzammil-360/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0319-bulb-switcher](https://github.com/muzammil-360/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0458-poor-pigs](https://github.com/muzammil-360/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0593-valid-square](https://github.com/muzammil-360/leetcode-solutions/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/muzammil-360/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
