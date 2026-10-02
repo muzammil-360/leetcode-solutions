@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2670-find-the-distinct-difference-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2678-number-of-senior-citizens](https://github.com/muzammil-360/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2399-check-distances-between-same-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/muzammil-360/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
