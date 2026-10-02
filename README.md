@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
