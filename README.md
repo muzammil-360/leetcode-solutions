@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
