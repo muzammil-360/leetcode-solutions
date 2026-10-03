@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/muzammil-360/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muzammil-360/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0223-rectangle-area) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/muzammil-360/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/muzammil-360/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0205-isomorphic-strings) |
