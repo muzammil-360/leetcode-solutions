@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muzammil-360/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammil-360/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
