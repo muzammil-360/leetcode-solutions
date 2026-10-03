@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/muzammil-360/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
