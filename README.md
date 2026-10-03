@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/muzammil-360/leetcode-solutions/tree/master/0458-poor-pigs) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammil-360/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
