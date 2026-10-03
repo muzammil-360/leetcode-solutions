@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0912-sort-an-array) |
