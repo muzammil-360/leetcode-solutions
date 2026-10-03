@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/muzammil-360/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
