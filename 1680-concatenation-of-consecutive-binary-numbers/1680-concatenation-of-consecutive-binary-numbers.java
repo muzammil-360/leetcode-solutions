@@ -1,6 +1,7 @@
 class Solution {
     public int concatenatedBinary(int n) {
-        long mod=(long)(Math.pow(10,9)+7);
+       // long mod=(long)(Math.pow(10,9)+7);
+       long mod=1_000_000_007;
         long ans=0;
         int bitlength=0;
         for(int i=1;i<=n;i++){
