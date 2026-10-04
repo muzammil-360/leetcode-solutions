@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/muzammil-360/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/muzammil-360/leetcode-solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammil-360/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
