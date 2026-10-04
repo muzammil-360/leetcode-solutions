@@ -28,8 +28,8 @@ class Solution {
             else{s.append('0');}
             num/=3;
         }
-        if(num==1)s.append('1');
-        if(num==2)s.append('2');
+        // if(num==1)s.append('1');
+        // if(num==2)s.append('2');
         s.reverse();
         String str=s.toString();
         return str;
