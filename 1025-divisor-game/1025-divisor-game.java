@@ -1,7 +1,6 @@
 class Solution {
     public boolean divisorGame(int n) {
-        if(n<=1 )return false;
-        if(n%2==0)return true;
-        return false;
+        if(n<=1 || n%2==1)return false;
+        return true;
     }
 }
