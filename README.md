@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/muzammil-360/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/muzammil-360/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1903-largest-odd-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muzammil-360/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/muzammil-360/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/muzammil-360/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -950,4 +953,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/muzammil-360/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
