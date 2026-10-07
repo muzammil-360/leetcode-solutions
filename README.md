@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/muzammil-360/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/muzammil-360/leetcode-solutions/tree/master/1029-two-city-scheduling) |
@@ -996,4 +1000,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
