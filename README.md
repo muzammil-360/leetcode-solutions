@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muzammil-360/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muzammil-360/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3100-water-bottles-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3100-water-bottles-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
