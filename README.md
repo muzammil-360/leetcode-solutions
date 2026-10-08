@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/muzammil-360/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/muzammil-360/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/muzammil-360/leetcode-solutions/tree/master/0458-poor-pigs) |
