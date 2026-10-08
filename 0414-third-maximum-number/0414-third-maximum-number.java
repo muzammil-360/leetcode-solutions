@@ -17,6 +17,6 @@ class Solution {
                 max3=num;
             }
         }
-        return max3 == Long.MIN_VALUE ? (int) max1 : (int) max3; 
+       return max3 == Long.MIN_VALUE ? (int) max1 : (int) max3;
     }
 }
