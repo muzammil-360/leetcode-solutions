@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/muzammil-360/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/muzammil-360/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Matrix
 |  |
 | ------- |
