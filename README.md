@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3978-unique-middle-element) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/muzammil-360/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3908-valid-digit-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/muzammil-360/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
