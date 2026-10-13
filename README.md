@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/muzammil-360/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/muzammil-360/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/muzammil-360/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/muzammil-360/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/muzammil-360/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/muzammil-360/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
