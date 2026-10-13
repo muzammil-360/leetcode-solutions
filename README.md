@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3978-unique-middle-element) |
