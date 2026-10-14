@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/muzammil-360/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
