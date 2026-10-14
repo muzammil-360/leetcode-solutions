@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muzammil-360/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/muzammil-360/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muzammil-360/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
