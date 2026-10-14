@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/muzammil-360/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1362-closest-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/muzammil-360/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1362-closest-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Sieve Theory
