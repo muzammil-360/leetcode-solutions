@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/muzammil-360/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/muzammil-360/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/muzammil-360/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/muzammil-360/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
