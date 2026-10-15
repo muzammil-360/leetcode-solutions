@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/muzammil-360/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/muzammil-360/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/muzammil-360/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/muzammil-360/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/muzammil-360/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
