@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muzammil-360/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/muzammil-360/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/muzammil-360/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
