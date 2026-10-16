@@ -27,24 +27,15 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> list=new ArrayList<>();
         solve(0,nums,list,ans);
-        HashSet<List<Integer>> set=new HashSet<>();
-        for(List<Integer> ls:ans){
-            set.add(ls);
-        }
-        List<List<Integer>> soln=new ArrayList<>();
-        for(List<Integer> ls:set){
-            soln.add(ls);
-        }
-        return soln;
+        return ans;
     }
     private void solve(int ind,int[] nums,List<Integer> list,List<List<Integer>> ans){
-        if(ind==nums.length){
-            ans.add(new ArrayList<>(list));
-            return ;
+        ans.add(new ArrayList<>(list));
+        for(int i=ind;i<nums.length;i++){
+            if(i>ind && nums[i]==nums[i-1]){continue;}
+            list.add(nums[i]);
+            solve(i+1,nums,list,ans);
+            list.remove(list.size()-1);
         }
-        list.add(nums[ind]);
-        solve(ind+1,nums,list,ans);
-        list.remove(list.size()-1);
-        solve(ind+1,nums,list,ans);
     }
 }
