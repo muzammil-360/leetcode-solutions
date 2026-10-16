@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3941-password-strength](https://github.com/muzammil-360/leetcode-solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/muzammil-360/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3941-password-strength](https://github.com/muzammil-360/leetcode-solutions/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Matrix
 |  |
