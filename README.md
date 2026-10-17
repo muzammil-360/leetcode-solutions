@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muzammil-360/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/muzammil-360/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1053-previous-permutation-with-one-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1360-number-of-days-between-two-dates](https://github.com/muzammil-360/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/muzammil-360/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muzammil-360/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
