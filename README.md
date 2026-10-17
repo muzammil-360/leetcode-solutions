@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/muzammil-360/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/muzammil-360/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/muzammil-360/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/muzammil-360/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/muzammil-360/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
