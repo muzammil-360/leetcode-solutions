@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muzammil-360/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/muzammil-360/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/muzammil-360/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1323-maximum-69-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/muzammil-360/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/muzammil-360/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -1142,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Merge Sort
 |  |
