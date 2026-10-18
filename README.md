@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/muzammil-360/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3100-water-bottles-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3100-water-bottles-ii) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/muzammil-360/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/muzammil-360/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
