@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3978-unique-middle-element) |
+| [4006-count-valid-prefixes](https://github.com/muzammil-360/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3941-password-strength](https://github.com/muzammil-360/leetcode-solutions/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4006-count-valid-prefixes](https://github.com/muzammil-360/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Matrix
 |  |
 | ------- |
