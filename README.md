@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0665-non-decreasing-array) |
+| [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/muzammil-360/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/muzammil-360/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0885-spiral-matrix-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/muzammil-360/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
