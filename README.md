@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/muzammil-360/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muzammil-360/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muzammil-360/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/muzammil-360/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
