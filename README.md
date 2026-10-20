@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/muzammil-360/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/muzammil-360/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/muzammil-360/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/muzammil-360/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/muzammil-360/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/muzammil-360/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/muzammil-360/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Prime Factorization
 |  |
