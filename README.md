@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/muzammil-360/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/muzammil-360/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2485-find-the-pivot-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -1106,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/muzammil-360/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2974-minimum-number-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
