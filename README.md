@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/muzammil-360/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/muzammil-360/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/muzammil-360/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/muzammil-360/leetcode-solutions/tree/master/0051-n-queens) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muzammil-360/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/muzammil-360/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muzammil-360/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
