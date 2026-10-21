@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/muzammil-360/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/muzammil-360/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muzammil-360/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/muzammil-360/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -1291,4 +1292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/muzammil-360/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
