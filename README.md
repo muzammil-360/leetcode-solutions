@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/muzammil-360/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/muzammil-360/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/muzammil-360/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
