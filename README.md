@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/muzammil-360/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/muzammil-360/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/muzammil-360/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/muzammil-360/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/muzammil-360/leetcode-solutions/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/muzammil-360/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1362-closest-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/muzammil-360/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
