@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/muzammil-360/leetcode-solutions/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1122-relative-sort-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/muzammil-360/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muzammil-360/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/muzammil-360/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1360-number-of-days-between-two-dates](https://github.com/muzammil-360/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
