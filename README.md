@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/muzammil-360/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1387-sort-integers-by-the-power-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/muzammil-360/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/muzammil-360/leetcode-solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/muzammil-360/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -1202,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/muzammil-360/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1213,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
