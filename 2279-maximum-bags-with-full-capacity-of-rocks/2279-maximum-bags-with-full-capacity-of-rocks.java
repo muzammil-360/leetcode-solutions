@@ -9,6 +9,7 @@ class Solution {
             if(rocks[i]<= additionalRocks){
                 ans++;
                 additionalRocks-=rocks[i];
+                if(additionalRocks==0)break;
             }
         }
         return ans;
