@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/muzammil-360/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2239-find-closest-number-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muzammil-360/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/muzammil-360/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Queue
