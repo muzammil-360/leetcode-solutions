@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/muzammil-360/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/muzammil-360/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1221,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
