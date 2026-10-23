@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/muzammil-360/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Quicksort
 |  |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/muzammil-360/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -1217,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
 | ------- |
