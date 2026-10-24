@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
