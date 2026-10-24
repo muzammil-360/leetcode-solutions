@@ -10,6 +10,10 @@ class Solution {
             maxfre=Math.max(maxfre,hash[s.charAt(r)-'A']);
             while((r-l+1)-maxfre>k){
                 hash[s.charAt(l)-'A']--;
+                maxfre=0;
+                for(int p=0;p<26;p++){
+                    maxfre=Math.max(maxfre,hash[p]);
+                }
                 l++;
             }
             if((r-l+1)-maxfre<=k){
