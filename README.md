@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/muzammil-360/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/muzammil-360/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2256-minimum-average-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/2256-minimum-average-difference) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/muzammil-360/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/muzammil-360/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/muzammil-360/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/muzammil-360/leetcode-solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammil-360/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
