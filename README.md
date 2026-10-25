@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/muzammil-360/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/muzammil-360/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/muzammil-360/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/muzammil-360/leetcode-solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/muzammil-360/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0836-rectangle-overlap) |
