@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/muzammil-360/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1387-sort-integers-by-the-power-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -1376,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/muzammil-360/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -1464,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -1498,4 +1503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
