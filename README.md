@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/muzammil-360/leetcode-solutions/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/muzammil-360/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -1547,4 +1548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/muzammil-360/leetcode-solutions/tree/master/1227-airplane-seat-assignment-probability) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/muzammil-360/leetcode-solutions/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
