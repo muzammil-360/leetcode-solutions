@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muzammil-360/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2578-split-with-minimum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2544-alternating-digit-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/muzammil-360/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/muzammil-360/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2578-split-with-minimum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/muzammil-360/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
