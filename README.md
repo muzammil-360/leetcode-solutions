@@ -1202,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
