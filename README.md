@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/muzammil-360/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/muzammil-360/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muzammil-360/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/muzammil-360/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muzammil-360/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -1200,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/muzammil-360/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/muzammil-360/leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2262-total-appeal-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/muzammil-360/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/muzammil-360/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/muzammil-360/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
