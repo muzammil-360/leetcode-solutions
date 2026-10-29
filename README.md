@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/muzammil-360/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/muzammil-360/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/3899-angles-of-a-triangle) |
 | [3908-valid-digit-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/3908-valid-digit-number) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/muzammil-360/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Geometry
 |  |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/3798-largest-even-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/muzammil-360/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/muzammil-360/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/muzammil-360/leetcode-solutions/tree/master/3941-password-strength) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/muzammil-360/leetcode-solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4006-count-valid-prefixes](https://github.com/muzammil-360/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
