@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/muzammil-360/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/muzammil-360/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammil-360/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/muzammil-360/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/muzammil-360/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -1254,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
