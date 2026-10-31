@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/muzammil-360/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/muzammil-360/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muzammil-360/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/muzammil-360/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muzammil-360/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/muzammil-360/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muzammil-360/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/muzammil-360/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
