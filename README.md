@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muzammil-360/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2032-two-out-of-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muzammil-360/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/muzammil-360/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/muzammil-360/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2032-two-out-of-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/muzammil-360/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [2032-two-out-of-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/muzammil-360/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/muzammil-360/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/muzammil-360/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
