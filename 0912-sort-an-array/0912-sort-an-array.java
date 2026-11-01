@@ -1,37 +1,39 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        // Arrays.sort(nums);
-        // return nums;
-        qs(nums,0,nums.length-1);
+        merge_sort(nums,0,nums.length-1);
         return nums;
     }
-    void qs(int[] nums,int low,int high){
-        if(low<high){
-            int pindex=func(nums,low,high);
-            qs(nums,low,pindex-1);
-            qs(nums,pindex+1,high);
-        }
+    void merge_sort(int[] nums,int low,int high){
+        if(low>=high){return;}
+        int mid=low+(high-low)/2;
+        merge_sort(nums,low,mid);
+        merge_sort(nums,mid+1,high);
+        merge(nums,low,mid,high);
     }
-    int func(int[] nums,int low,int high){
-        int random = low + (int)(Math.random() * (high - low + 1));
-        int temp1 = nums[low];
-        nums[low] = nums[random];
-        nums[random] = temp1;
-        int pivot=nums[low];
-        int i=low;
-        int j=high;
-        while(i<j){
-            while(nums[i]<=pivot && i<=high-1){i++;}
-            while(nums[j]>pivot && j>=low+1){j--;}
-            if(i<j){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+    void merge(int[] nums,int low,int mid,int high){
+        List<Integer> list=new ArrayList<>();
+        int left=low;
+        int right=mid+1;
+        while(left<=mid && right<=high){
+            if(nums[left]<=nums[right]){
+                list.add(nums[left]);
+                left++;
+            }
+            else{
+                list.add(nums[right]);
+                right++;
             }
         }
-        int temp=nums[low];
-        nums[low]=nums[j];
-        nums[j]=temp;
-        return j;
+        while(left<=mid){
+            list.add(nums[left]);
+            left++;
+        }
+        while(right<=high){
+            list.add(nums[right]);
+            right++;
+        }
+        for(int i=low;i<=high;i++){
+            nums[i]=list.get(i-low);
+        }
     }
 }
