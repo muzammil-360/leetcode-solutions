@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0812-largest-triangle-area](https://github.com/muzammil-360/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0866-prime-palindrome](https://github.com/muzammil-360/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/muzammil-360/leetcode-solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/muzammil-360/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/muzammil-360/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/muzammil-360/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/muzammil-360/leetcode-solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/muzammil-360/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
