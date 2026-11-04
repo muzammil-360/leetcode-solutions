@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muzammil-360/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/muzammil-360/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/muzammil-360/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/muzammil-360/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/muzammil-360/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/muzammil-360/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/muzammil-360/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/muzammil-360/leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2262-total-appeal-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
