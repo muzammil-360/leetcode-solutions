@@ -1286,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/muzammil-360/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
