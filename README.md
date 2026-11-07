@@ -1471,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/muzammil-360/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1631,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1643,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/muzammil-360/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
+| [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1686,4 +1689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
