@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/muzammil-360/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0013-roman-to-integer) |
@@ -1636,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1692,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammil-360/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
