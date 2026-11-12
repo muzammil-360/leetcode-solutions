@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/muzammil-360/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/muzammil-360/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3151-special-array-i) |
