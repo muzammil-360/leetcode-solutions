@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/muzammil-360/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/muzammil-360/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/muzammil-360/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/muzammil-360/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/muzammil-360/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0885-spiral-matrix-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/muzammil-360/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/muzammil-360/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muzammil-360/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/muzammil-360/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -1515,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/muzammil-360/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/muzammil-360/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/muzammil-360/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/muzammil-360/leetcode-solutions/tree/master/1472-design-browser-history) |
