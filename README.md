@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/muzammil-360/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1185-day-of-the-week](https://github.com/muzammil-360/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1227-airplane-seat-assignment-probability](https://github.com/muzammil-360/leetcode-solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/muzammil-360/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
