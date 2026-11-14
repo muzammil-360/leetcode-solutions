@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/muzammil-360/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammil-360/leetcode-solutions/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/muzammil-360/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muzammil-360/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -1475,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/muzammil-360/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
