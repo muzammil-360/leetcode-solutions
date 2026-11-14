@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/muzammil-360/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3978-unique-middle-element) |
@@ -1366,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/muzammil-360/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/muzammil-360/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -1530,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
