@@ -1160,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -1370,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/muzammil-360/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/muzammil-360/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3713-longest-balanced-substring-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1536,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3638-maximum-balanced-shipments](https://github.com/muzammil-360/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
