@@ -1295,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/muzammil-360/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/muzammil-360/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/muzammil-360/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/muzammil-360/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/muzammil-360/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/muzammil-360/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/muzammil-360/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/muzammil-360/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -1569,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
