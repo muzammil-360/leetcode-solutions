@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/muzammil-360/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/muzammil-360/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/muzammil-360/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/muzammil-360/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/muzammil-360/leetcode-solutions/tree/master/0817-linked-list-components) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0888-fair-candy-swap](https://github.com/muzammil-360/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/muzammil-360/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/muzammil-360/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/muzammil-360/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0890-find-and-replace-pattern](https://github.com/muzammil-360/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/muzammil-360/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/muzammil-360/leetcode-solutions/tree/master/0925-long-pressed-name) |
