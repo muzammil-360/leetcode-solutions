@@ -1591,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/muzammil-360/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/muzammil-360/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/muzammil-360/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/muzammil-360/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/muzammil-360/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/muzammil-360/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/muzammil-360/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -1629,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/muzammil-360/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muzammil-360/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/muzammil-360/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/muzammil-360/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/muzammil-360/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## String Matching
 |  |
@@ -1807,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/muzammil-360/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/muzammil-360/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/muzammil-360/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/muzammil-360/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/muzammil-360/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1903,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/muzammil-360/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/muzammil-360/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Range Minimum/Maximum Query
 |  |
