@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/muzammil-360/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/muzammil-360/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0697-degree-of-an-array) |
