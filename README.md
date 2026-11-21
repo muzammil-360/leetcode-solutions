@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0682-baseball-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/muzammil-360/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/muzammil-360/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/muzammil-360/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muzammil-360/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/muzammil-360/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/muzammil-360/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/muzammil-360/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/muzammil-360/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
