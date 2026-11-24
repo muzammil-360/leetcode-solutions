@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/muzammil-360/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/muzammil-360/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muzammil-360/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muzammil-360/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/muzammil-360/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1338-reduce-array-size-to-the-half](https://github.com/muzammil-360/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
