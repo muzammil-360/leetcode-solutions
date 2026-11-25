@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muzammil-360/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/muzammil-360/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3834-merge-adjacent-equal-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/muzammil-360/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -1217,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/muzammil-360/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/muzammil-360/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3842-toggle-light-bulbs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/muzammil-360/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1636,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-resulting-string-after-adjacent-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3638-maximum-balanced-shipments](https://github.com/muzammil-360/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/muzammil-360/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3834-merge-adjacent-equal-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
