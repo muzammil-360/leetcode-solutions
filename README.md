@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3978-unique-middle-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/muzammil-360/leetcode-solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4020-elevator-requests-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Dynamic Programming
 |  |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/muzammil-360/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/muzammil-360/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/muzammil-360/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Geometry
 |  |
 | ------- |
