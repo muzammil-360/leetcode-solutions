@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/muzammil-360/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/muzammil-360/leetcode-solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/muzammil-360/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/muzammil-360/leetcode-solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/muzammil-360/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/muzammil-360/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/muzammil-360/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/muzammil-360/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/muzammil-360/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
