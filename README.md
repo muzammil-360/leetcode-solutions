@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/muzammil-360/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muzammil-360/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/muzammil-360/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/muzammil-360/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/muzammil-360/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/muzammil-360/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muzammil-360/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/muzammil-360/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/muzammil-360/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/muzammil-360/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/muzammil-360/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/muzammil-360/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/muzammil-360/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/muzammil-360/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muzammil-360/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/muzammil-360/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/muzammil-360/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
